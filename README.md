@@ -7,11 +7,11 @@ After you initializing your git repo, run 'git pull' to fetch the master branch.
 git pull https://github.com/lukeouyang/LuTripAdvisor.git
 ```
 ## Screenshots
-![Screenshot-1](https://github.com/lukeouyang/LuTripAdvisor/blob/master/img/LuTripAdvisor-1.jpg)
-![Screenshot-2](https://github.com/lukeouyang/LuTripAdvisor/blob/master/img/LuTripAdvisor-2.jpg)
-![Screenshot-3](https://github.com/lukeouyang/LuTripAdvisor/blob/master/img/LuTripAdvisor-3.jpg)
-![Screenshot-4](https://github.com/lukeouyang/LuTripAdvisor/blob/master/img/LuTripAdvisor-4.jpg)
-![Screenshot-5](https://github.com/lukeouyang/LuTripAdvisor/blob/master/img/LuTripAdvisor-5.jpg)
+![Screenshot-1](https://raw.githubusercontent.com/lukeouyang/LuTripAdvisor/master/img/LuTripAdvisor-1.png)
+![Screenshot-2](https://raw.githubusercontent.com/lukeouyang/LuTripAdvisor/master/img/LuTripAdvisor-2.png)
+![Screenshot-3](https://raw.githubusercontent.com/lukeouyang/LuTripAdvisor/master/img/LuTripAdvisor-3.png)
+![Screenshot-4](https://raw.githubusercontent.com/lukeouyang/LuTripAdvisor/master/img/LuTripAdvisor-4.png)
+![Screenshot-5](https://raw.githubusercontent.com/lukeouyang/LuTripAdvisor/master/img/LuTripAdvisor-5.png)
 ## Feature
 LuTripAdvisor is a single-page Materialized-based theme for travel agencies' Websites.  
 Its features are list below:  
