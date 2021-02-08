@@ -20,6 +20,6 @@ git pull https://github.com/lukeouyang/LuTripAdvisor.git
 Any contribution is welcomed, free sharing under non-commercial use.
 
 ## Author and contact
-Weichen Ouyang
-<https://www.datavisioner.net>
+Weichen Ouyang 
+<https://www.datavisioner.net> 
 <luke_ou@hotmail.com>
