@@ -1,5 +1,5 @@
 # LuTripAdvisor
-A travel agency website template build with Materialize
+A travel agency website template build with Materialize. [Demo Site](https://lukeouyang.github.io/LuTripAdvisor/)
 
 ## Install
 After you initializing your git repo, run 'git pull' to fetch the master branch.
